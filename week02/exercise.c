@@ -1,5 +1,4 @@
 // COMP1511 Week 2 tutorial exercise
-// Written by Mon17A 18/09/2023
 
 #include <stdio.h>
 
