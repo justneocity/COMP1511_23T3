@@ -30,6 +30,9 @@ int main(void) {
     head = insert_node(head, 50, 2, length);
     // print linked list
 	print_list(head);
+
+    // TESTING: to try insert_node with different scenarios, feel free to modify
+    // the head, nodes, arguments, etc.
 }
 
 struct node *create_node(int data) {
